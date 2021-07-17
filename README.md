@@ -1,2 +1,3 @@
-## DOCKER DJANGO PROJECT
-#### DOCKER CONFIGURE DIRECTORY. DOCKER-COMPOSE AND DOCKERFILE INCLUDED. COFIG FOR POSTGRESQL AND MYSQL DATABASES
+## DOCKER DJANGO CONFIG
+*Docker configure directory. Docker-compose and Dockerfile included.* 
+*Configs for PostgreSQL and MySQL databases.* 
